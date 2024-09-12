@@ -167,4 +167,5 @@ img {
   width: 100%;
   max-width: 1800px;
   margin: 0 auto;
+  z-index: -1;
 }/*# sourceMappingURL=style.css.map */
